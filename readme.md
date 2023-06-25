@@ -1,4 +1,3 @@
-# [CodersHub](https://coder-hub.herokuapp.com/) 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
@@ -21,16 +20,8 @@
 - Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
 - Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
 - If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
-
-## What is CodersHub? 🤔
-
-#### Remote pair programming is something developers have grappled with since well before the pandemic began. 
-#### CodersHub is basically a platform where two peers can do their interview preparation by practicing DSA problems and improve their problem solving skills.
-#### CodersHub is ideal for Online Interviewing of Developers as well as Learning to code from Friends.
-
-
 ## How it works? 🤔
-- **Open the website [https://coder-hub.herokuapp.com/](https://coder-hub.herokuapp.com/)**
+- **Open the website [[https://coder-hub.herokuapp.com/](https://coder-hub.herokuapp.com/](https://thecodelab.up.railway.app/))**
 - **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
 
 
