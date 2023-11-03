@@ -15,7 +15,7 @@
 - Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
 - If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
 ## How it works?
-- **Open the website [[https://coder-hub.herokuapp.com/](https://coder-hub.herokuapp.com/](https://thecodelab.up.railway.app/))**
+- **Open the website [[https://thecodelab.up.railway.app/](https://thecodelab.up.railway.app/))**
 - **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
 
 
