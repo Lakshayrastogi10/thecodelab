@@ -6,7 +6,7 @@
     "nodemon": "^1.14.9",
     "socket.io": "^4.4.1"
   },
-  "name": "codershub",
+  "name": "TheCodeLab",
   "version": "1.0.0",
   "description": "This is chatting Application",
   "main": "index.js",
@@ -16,11 +16,11 @@
          },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/hritikkhurana10sm/CodersHub-.git"
+    "url": "git remote add origin https://github.com/Lakshayrastogi10/thecodelab.git"
   },
   "keywords": [
-    "CodersHub"
+    "TheCodeLab"
   ],
-  "author": "Hritik Khurana",
+  "author": "Lakshay Rastogi",
   "license": "ISC"
 }
